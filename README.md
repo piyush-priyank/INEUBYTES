@@ -1,8 +1,7 @@
 # INEUBYTES
 
-Welcome to the INEUBYTES repository! INEUBYTES is a project that [provide a brief description of your project's purpose and goals].
+Welcome to the INEUBYTES repository! .
 
-![Project Image/Logo](link_to_project_image_or_logo.png)
 
 ## Table of Contents
 
